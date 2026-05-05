@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "FrontlinesEdutech",
+    "industry": "IT",
+    "location": "Hyderabad",
+    "employees": 120,
+    "website": "https://frontlinesmedia.in"
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "industry": "IT",
+    "location": "Bangalore",
+    "employees": 500,
+    "website": "https://www.infosys.com"
+  },
+  {
+    "id": 3,
+    "name": "Apollo Hospitals",
+    "industry": "Healthcare",
+    "location": "Chennai",
+    "employees": 300,
+    "website": "https://www.apollohospitals.com"
+  },
+  {
+    "id": 4,
+    "name": "BYJU'S",
+    "industry": "Education",
+    "location": "Pune",
+    "employees": 200,
+    "website": "https://byjus.com"
+  },
+  {
+    "id": 5,
+    "name": "TCS",
+    "industry": "IT",
+    "location": "Hyderabad",
+    "employees": 700,
+    "website": "https://www.tcs.com"
+  },
+  {
+    "id": 6,
+    "name": "Manipal Hospitals",
+    "industry": "Healthcare",
+    "location": "Bangalore",
+    "employees": 350,
+    "website": "https://www.manipalhospitals.com"
+  },
+  {
+    "id": 7,
+    "name": "Wipro",
+    "industry": "IT",
+    "location": "Pune",
+    "employees": 450,
+    "website": "https://www.wipro.com"
+  },
+  {
+    "id": 8,
+    "name": "Unacademy",
+    "industry": "Education",
+    "location": "Hyderabad",
+    "employees": 180,
+    "website": "https://unacademy.com"
+  },
+  {
+    "id": 9,
+    "name": "HDFC Bank",
+    "industry": "Finance",
+    "location": "Chennai",
+    "employees": 250,
+    "website": "https://www.hdfcbank.com"
+  },
+  {
+    "id": 10,
+    "name": "ICICI Bank",
+    "industry": "Finance",
+    "location": "Bangalore",
+    "employees": 220,
+    "website": "https://www.icicibank.com"
+  }
+]
