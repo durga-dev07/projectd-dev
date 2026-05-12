@@ -1,39 +1,3 @@
-// const CompanyCard = ({ company }) => {
-//     return (
-//         <div className="bg-white p-5 rounded-2xl shadow-md hover:shadow-2xl hover:-translate-y-2 transition-all duration-300">
-//             <h2 className="text-2xl font-bold mb-3 text-indigo-700">
-//                 {company.name}
-//             </h2>
-
-//             <p className="text-gray-700 mb-2">
-//                 <span className="font-semibold">Industry:</span> {company.industry}
-//             </p>
-
-//             <p className="text-gray-700 mb-2">
-//                 <span className="font-semibold">Location:</span> {company.location}
-//             </p>
-
-//             <p className="text-gray-700 mb-4">
-//                 <span className="font-semibold">Employees:</span> {company.employees}
-//             </p>
-
-//             <a
-//                 href={company.website}
-//                 target="_blank"
-//                 rel="noreferrer"
-//                 className="inline-block bg-indigo-600 hover:bg-indigo-700 text-white px-4 py-2 rounded-lg"
-//             >
-//                 Visit Website
-//             </a>
-
-//         </div>
-//     )
-// }
-
-// export default CompanyCard
-
-
-
 const CompanyCard = ({ company, darkMode }) => {
 
   return (
